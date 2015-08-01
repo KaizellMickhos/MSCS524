@@ -1,4 +1,4 @@
-//Account class with a constructor to
+//Account class with a constructor
 //Initialize instance variable balance
 
 public class Account
