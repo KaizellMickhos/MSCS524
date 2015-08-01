@@ -1,3 +1,6 @@
+//Account class with a constructor to
+//Initialize instance variable balance
+
 public class Account
 {
   private double balance; //instance variable that stores the balance
